@@ -1,56 +1,164 @@
-Salesforce Admin Roadmap (Short)
+Salesforce Admin Learning Roadmap (Beginner to Advanced)
 
-1. Salesforce Basics
+ 1. Cloud Computing Basics
 
-   * CRM concepts
-   * Salesforce navigation
-   * Apps, Tabs
-   * Objects, Records, Fields
+  * What is Cloud Computing?
+  * Service Models
+  
+    * IaaS (Infrastructure as a Service)
+    * PaaS (Platform as a Service)
+    * SaaS (Software as a Service)
+  * Deployment Models
+  
+    * Public Cloud
+    * Private Cloud
+    * Hybrid Cloud
+  * Why businesses use the cloud
 
-2. Data Model
+ 2. Salesforce Fundamentals
 
-   * Standard & Custom Objects
-   * Fields
-   * Object Relationships
-   * Schema Builder
+  * What is Salesforce?
+  * Why Salesforce?
+  * Salesforce Architecture (Multi-Tenant)
+  * Salesforce Editions
+  * Salesforce Environment
+  
+    * Production Org
+    * Sandbox
+    * Developer Org
+  * Login to Trailhead and Create a Free Developer Org
 
-3. Security & Access
+ 3. CRM Basics
 
-   * Users
-   * Profiles
-   * Permission Sets
-   * Roles
-   * Organization-Wide Defaults (OWD)
-   * Sharing Rules
+  * What is CRM?
+  * CRM Process
+  
+    * Lead
+    * Account
+    * Contact
+    * Opportunity
+    * Quote
+    * Order
+    * Customer Support
+  * Sales Process Overview
+  * Salesforce Clouds
+  
+    * Sales Cloud
+    * Service Cloud
+    * Marketing Cloud
+    * Experience Cloud
+    * Commerce Cloud
+    * Data Cloud
+    * Field Service
 
-4. Configuration
+ 4. Salesforce Navigation
 
-   * Page Layouts
-   * Record Types
-   * Validation Rules
-   * Formula Fields
+  * App Launcher
+  * Apps
+  * Tabs
+  * Global Search
+  * Setup Menu
+  * Home Page
+  
+   5. Salesforce Data Model
+  
+  * Standard Objects
+  * Custom Objects
+  * Records
+  * Fields
+  * Field Types
+  * Object Relationships
+  
+    * Lookup
+    * Master-Detail
+    * Many-to-Many
+  * Schema Builder
 
-5. Automation
+ 6. Security & Access
 
-   * Flow Builder
-   * Approval Processes
+  * Users
+  * Profiles
+  * Permission Sets
+  * Roles
+  * Organization-Wide Defaults (OWD)
+  * Role Hierarchy
+  * Sharing Rules
+  * Login Access
 
-6. Data Management
+ 7. Customization
 
-   * Data Import Wizard
-   * Data Loader
-   * Reports
-   * Dashboards
+  * Page Layouts
+  * Lightning Record Pages
+  * Record Types
+  * Picklists
+  * Validation Rules
+  * Formula Fields
+  * Custom Labels
 
-7. Certification
+ 8. Automation
 
-   * Salesforce Certified Administrator
+  * Flow Builder
+  * Approval Processes
+  * Email Alerts
+  * Scheduled Flows
 
-8. Hands-on Practice
+ 9. Data Management
 
-   * Build a simple CRM project
-   * Practice real-time scenarios daily
+  * Import Data Wizard
+  * Data Loader
+  * Export Data
+  * Duplicate Management
+  * Reports
+  * Dashboards
 
-Easy order to remember:
+ 10. Deployment Basics
 
-Basics → Data Model → Security → Configuration → Automation → Data Management → Certification → Practice
+  * Change Sets
+  * Salesforce CLI (Basics)
+  * Git Basics
+  * Dev, Test, UAT, Production Environments
+  * Deployment Lifecycle
+
+ 11. Salesforce Administrator Certification
+
+  * Complete Trailhead Modules
+  * Practice with Developer Org
+  * Mock Tests
+  * Certification Preparation
+
+ 12. Hands-on Practice
+
+  * Build a complete CRM application
+  * Create Custom Objects and Fields
+  * Configure Security
+  * Build Flows
+  * Create Reports & Dashboards
+  * Practice real-time business scenarios
+
+ Easy Order to Remember
+
+  Cloud Basics
+  ↓
+  Salesforce Basics
+  ↓
+  CRM Concepts
+  ↓
+  Navigation
+  ↓
+  Data Model
+  ↓
+  Security
+  ↓
+  Customization
+  ↓
+  Automation
+  ↓
+  Data Management
+  ↓
+  Deployment Basics
+  ↓
+  Certification
+  ↓
+  Hands-on Practice
+
+This sequence follows the same order that most Salesforce beginners learn, making it easier to understand concepts before moving into Salesforce Admin features.
