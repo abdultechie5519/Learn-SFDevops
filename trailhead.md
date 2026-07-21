@@ -15,4 +15,5 @@ Trailhead is Salesforce's free online learning platform where you can learn Sale
 
 
 After signup then follow salesforce admin trailhead
-https://trailhead.salesforce.com/content/learn/trails/force_com_admin_beginner](https://trailhead.salesforce.com/users/srebello7/trailmixes/salesforce-administrator-explorer)
+
+https://trailhead.salesforce.com/users/srebello7/trailmixes/salesforce-administrator-explorer
