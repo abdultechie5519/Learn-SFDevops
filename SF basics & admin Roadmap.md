@@ -4,7 +4,6 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
 
   * What is Cloud Computing?
   * Service Models
-  
     * IaaS (Infrastructure as a Service)
     * PaaS (Platform as a Service)
     * SaaS (Software as a Service)
@@ -16,7 +15,6 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Why businesses use the cloud
 
  2. Salesforce Fundamentals
-
   * What is Salesforce?
   * Why Salesforce?
   * Salesforce Architecture (Multi-Tenant)
@@ -29,7 +27,6 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Login to Trailhead and Create a Free Developer Org
 
  3. CRM Basics
-
   * What is CRM?
   * CRM Process
   
@@ -40,9 +37,9 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
     * Quote
     * Order
     * Customer Support
+      
   * Sales Process Overview
   * Salesforce Clouds
-  
     * Sales Cloud
     * Service Cloud
     * Marketing Cloud
@@ -52,7 +49,6 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
     * Field Service
 
  4. Salesforce Navigation
-
   * App Launcher
   * Apps
   * Tabs
@@ -61,21 +57,18 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Home Page
   
    5. Salesforce Data Model
-  
   * Standard Objects
   * Custom Objects
   * Records
   * Fields
   * Field Types
-  * Object Relationships
-  
+  * Object Relationships 
     * Lookup
     * Master-Detail
     * Many-to-Many
   * Schema Builder
 
  6. Security & Access
-
   * Users
   * Profiles
   * Permission Sets
@@ -86,7 +79,6 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Login Access
 
  7. Customization
-
   * Page Layouts
   * Lightning Record Pages
   * Record Types
@@ -96,14 +88,12 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Custom Labels
 
  8. Automation
-
   * Flow Builder
   * Approval Processes
   * Email Alerts
   * Scheduled Flows
 
  9. Data Management
-
   * Import Data Wizard
   * Data Loader
   * Export Data
@@ -112,7 +102,6 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Dashboards
 
  10. Deployment Basics
-
   * Change Sets
   * Salesforce CLI (Basics)
   * Git Basics
@@ -120,14 +109,12 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
   * Deployment Lifecycle
 
  11. Salesforce Administrator Certification
-
   * Complete Trailhead Modules
   * Practice with Developer Org
   * Mock Tests
   * Certification Preparation
 
  12. Hands-on Practice
-
   * Build a complete CRM application
   * Create Custom Objects and Fields
   * Configure Security
