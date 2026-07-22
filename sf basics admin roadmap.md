@@ -1,4 +1,4 @@
-Salesforce Admin Learning Roadmap (Beginner to Advanced)
+ Salesforce Admin & Azure DevOps Learning Roadmap (Beginner to Advanced)
 
 1. Cloud Computing Basics
 
@@ -74,54 +74,81 @@ Salesforce Admin Learning Roadmap (Beginner to Advanced)
    * Duplicate Management
    * Reports & Dashboards
 
-10. Deployment Basics
+10. Development & DevOps Basics
 
-* Change Sets
-* Salesforce CLI (Basics)
-* Git Basics
-* Environments (Dev, Test, UAT, Production)
-* Deployment Lifecycle
+    * Visual Studio Code (VS Code)
+    * Salesforce CLI (SF CLI)
+    * Install Salesforce Extensions
+    * Create & Retrieve Salesforce Projects
+    * Authenticate Orgs (Production, Sandbox, Developer Org)
+    * Source Format & Metadata
+    * Deploy & Retrieve Metadata using SF CLI
+    * Git Basics (Clone, Commit, Push, Pull, Branches)
+    * Azure DevOps Repositories
+    * Azure DevOps Boards (Basics)
+    * Azure DevOps Pipelines (CI/CD Basics)
+    * Connect VS Code + Git + Azure DevOps
+    * Dev → Test → UAT → Production Deployment
 
-11. Certification
+11. Deployment
 
-* Trailhead Modules
-* Developer Org Practice
-* Mock Tests
-* Salesforce Admin Certification
+    * Change Sets
+    * SF CLI Deployment
+    * Validation Deployment
+    * Rollback Concepts
+    * Deployment Lifecycle
 
-12. Hands-on Practice
+12. Salesforce Administrator Certification
 
-* Build a CRM App
-* Create Objects & Fields
-* Configure Security
-* Build Flows
-* Create Reports & Dashboards
-* Practice Real-Time Scenarios
+    * Complete Trailhead Modules
+    * Practice in Developer Org
+    * Mock Tests
+    * Certification Preparation
 
-Learning Order
+13. Hands-on Practice
 
+    * Build a Complete CRM Application
+    * Create Custom Objects & Fields
+    * Configure Security
+    * Build Flows
+    * Import & Export Data
+    * Create Reports & Dashboards
+    * Deploy Using SF CLI
+    * Use Git & Azure DevOps
+    * Practice Real-Time Business Scenarios
+
+ Learning Order
+
+```
 Cloud Basics
-↓
+      ↓
 Salesforce Fundamentals
-↓
+      ↓
 CRM Basics
-↓
+      ↓
 Navigation
-↓
+      ↓
 Data Model
-↓
+      ↓
 Security
-↓
+      ↓
 Customization
-↓
+      ↓
 Automation
-↓
+      ↓
 Data Management
-↓
-Deployment Basics
-↓
+      ↓
+VS Code + SF CLI
+      ↓
+Git Basics
+      ↓
+Azure DevOps
+      ↓
+Deployment
+      ↓
 Certification
-↓
+      ↓
 Hands-on Practice
+```
 
-This roadmap follows a beginner-friendly learning path, helping you understand the fundamentals before moving to advanced Salesforce Admin concepts.
+This roadmap covers both Salesforce Admin and the basic DevOps workflow, including VS Code, Salesforce CLI authentication, Git, Azure DevOps, and deployments, which are commonly used in real Salesforce projects.
