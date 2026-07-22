@@ -19,7 +19,7 @@ Steps to sign up for a free Salesforce Developer Org:
 
 Easy to remember: Signup → Email Verify → Password → Login
 
-
+==========================================================================================================
 
 Salesforce Platform is used to build and customize business applications on Salesforce without much coding.
 
@@ -27,7 +27,7 @@ Salesforce Platform is used to build and customize business applications on Sale
 
 Easy to remember: Build → Customize → Automate
 
-
+==========================================================================================================
 
 Interviewer: Can you explain the CRM process with a simple example?
 
