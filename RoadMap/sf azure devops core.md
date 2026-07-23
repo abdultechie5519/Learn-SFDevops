@@ -14,6 +14,8 @@ Company Information (Knowlege)
 
 New connected app
 
+Agile metholodgy 
+
 
 Azure Devops:
 
