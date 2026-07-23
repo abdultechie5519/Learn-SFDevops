@@ -14,6 +14,8 @@ Company Information (Knowlege)
 
 Metadata & data (Knowledge)
 
+Difference b/w Salesforce Lightning & Classic (Knowledge)
+
 New connected app
 
 Agile metholodgy 
