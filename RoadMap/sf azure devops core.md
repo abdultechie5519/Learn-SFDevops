@@ -12,7 +12,7 @@ Sales & service cloud (Knowlege)
 
 Company Information (Knowlege)
 
-Metadata & data (Knowledge)
+Metadata & Data (Knowledge)
 
 Difference b/w Salesforce Lightning & Classic (Knowledge)
 
