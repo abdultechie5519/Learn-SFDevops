@@ -8,7 +8,9 @@ Pagelayouts, RecordTypes (Pratical)
 
 Profiles & Roles & permission sets & user creation (Pratical)
 
-Sales & service cloud (Partial Knowlege)
+Sales & service cloud (Knowlege)
+
+Company Information (Knowlege)
 
 
 Azure Devops:
