@@ -1,5 +1,7 @@
 Salesforce Concepts:
+
 Sandbox (different types - URL's) and Production - Go Live
+
 Objects & field - Standard & Custom (Pratical)
 Pagelayouts, RecordTypes (Pratical)
 Profiles & Roles & permission sets & user creation (Pratical)
