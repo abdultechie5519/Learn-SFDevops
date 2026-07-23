@@ -12,6 +12,8 @@ Sales & service cloud (Knowlege)
 
 Company Information (Knowlege)
 
+Metadata & data (Knowledge)
+
 New connected app
 
 Agile metholodgy 
