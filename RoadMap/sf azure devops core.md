@@ -6,6 +6,8 @@ Objects & field - Standard & Custom (Pratical)
 
 Pagelayouts, RecordTypes (Pratical)
 
+Relationships - Lookup and MasterDetail & Junction (Practical & Knowledge)
+
 Profiles & Roles & permission sets & user creation (Pratical)
 
 Sales & service cloud (Knowlege)
