@@ -20,6 +20,8 @@ Difference b/w Salesforce Lightning & Classic (Knowledge)
 
 New connected app
 
+Salesforce releases (Knowledge)
+
 Agile metholodgy 
 
 
