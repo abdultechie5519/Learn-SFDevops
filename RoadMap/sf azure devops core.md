@@ -10,7 +10,7 @@ Relationships - Lookup and MasterDetail & Many to Many or Junction relationship 
 
 Profiles & Roles & permission sets & user creation (Pratical & Knowledge)
 
-Sales & service cloud (Knowlege)
+Sales & Service cloud (Knowlege)
 
 Company Information (Knowlege)
 
