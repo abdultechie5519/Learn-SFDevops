@@ -8,7 +8,7 @@ Pagelayouts, RecordTypes (Pratical & Knowledge)
 
 Relationships - Lookup and MasterDetail & Junction (Practical & Knowledge)
 
-Profiles & Roles & permission sets & user creation (Pratical)
+Profiles & Roles & permission sets & user creation (Pratical & Knowledge)
 
 Sales & service cloud (Knowlege)
 
