@@ -6,7 +6,7 @@ Objects & field - Standard & Custom (Pratical & Knowledge)
 
 Pagelayouts, RecordTypes (Pratical & Knowledge)
 
-Relationships - Lookup and MasterDetail & Junction (Practical & Knowledge)
+Relationships - Lookup and MasterDetail & Many to Many or Junction relationship (Practical & Knowledge)
 
 Profiles & Roles & permission sets & user creation (Pratical & Knowledge)
 
