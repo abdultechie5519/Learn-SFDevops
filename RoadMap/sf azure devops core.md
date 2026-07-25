@@ -4,7 +4,7 @@ Sandbox (different types - URL's) and Production - Go Live (Knowledge)
 
 Objects & field - Standard & Custom (Pratical & Knowledge)
 
-Pagelayouts, RecordTypes (Pratical)
+Pagelayouts, RecordTypes (Pratical & Knowledge)
 
 Relationships - Lookup and MasterDetail & Junction (Practical & Knowledge)
 
