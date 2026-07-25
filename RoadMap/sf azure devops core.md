@@ -1,6 +1,6 @@
 Salesforce Concepts:
 
-Sandbox (different types - URL's) and Production - Go Live
+Sandbox (different types - URL's) and Production - Go Live (Knowledge)
 
 Objects & field - Standard & Custom (Pratical)
 
