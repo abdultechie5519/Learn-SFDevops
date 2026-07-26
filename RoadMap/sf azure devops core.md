@@ -14,6 +14,8 @@ Sales & Service cloud (Knowlege)
 
 Company Information (Knowlege)
 
+Salesforce Architecture (Knowledge)
+
 Metadata & Data (Knowledge)
 
 Difference b/w Salesforce Lightning & Classic (Knowledge)
