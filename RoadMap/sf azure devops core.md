@@ -22,11 +22,14 @@ Metadata & Data (Knowledge)
 
 Difference b/w Salesforce Lightning & Classic (Knowledge)
 
-New connected app
+New connected app (OAuth)
 
 Salesforce releases (Knowledge)
 
-Agile metholodgy 
+
+Agile metholodgy:
+
+End to End flow, PO, Scrum master
 
 
 Azure Devops:
