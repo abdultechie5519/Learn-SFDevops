@@ -27,7 +27,9 @@ New connected app (OAuth)
 Salesforce releases (Knowledge)
 
 
-Agile metholodgy:
+
+
+Agile Metholodgy:
 
 End to End flow, PO, Scrum master
 
