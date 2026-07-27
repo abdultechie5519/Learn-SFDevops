@@ -1,5 +1,7 @@
 Salesforce Concepts:
 
+Salesforce Platform, CRM Process
+
 Sandbox (different types - URL's) and Production - Go Live (Knowledge)
 
 Objects & field - Standard & Custom (Pratical & Knowledge)
