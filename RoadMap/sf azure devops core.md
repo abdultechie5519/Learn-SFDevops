@@ -28,7 +28,7 @@ Salesforce releases (Knowledge)
 
 Agile Metholodgy:
 
-End to End flow (UST to delivery), PO, Scrum master
+End to End flow (UST to delivery), PO, Scrum master, developer, tester, deployment or operation team's role
 
 
 Azure Devops:
