@@ -1,5 +1,7 @@
 Agile Methodology – End-to-End Flow (Simple)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0f0431f-e7a6-491e-9ff2-a9bd6b70b040" />
+
 1. Requirement Collection
 
 Who: Client / Business Stakeholders, Product Owner (PO)
