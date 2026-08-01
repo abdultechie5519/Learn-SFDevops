@@ -1,0 +1,105 @@
+Profiles, Roles, Permission Sets, Permission Set Groups & User Creation (Short & Simple)
+
+Interviewer: *Can you explain Profiles, Roles, Permission Sets, Permission Set Groups, and User Creation?*
+
+---
+
+👤 Profile
+
+Answer:
+A Profile defines what a user can do in Salesforce, such as object permissions, field permissions, tabs, and apps.
+
+Funny Example: 😂
+🎫 Movie Ticket
+If you buy a Gold Ticket, you get access to Gold seats. A Silver Ticket only allows Silver seats.
+
+👉 Profile = Basic access (mandatory).
+
+---
+
+👑 Role
+
+Answer:
+A Role controls who can see whose records using the role hierarchy.
+
+Funny Example: 😂
+🏢 Office Hierarchy:
+
+* CEO 👑
+* Manager 👨‍💼
+* Employee 👩‍💻
+
+The CEO can see everyone's work, while an employee mainly sees their own.
+
+👉 Role = Record visibility.
+
+---
+
+🔑 Permission Set
+
+Answer:
+A Permission Set gives extra permissions to specific users without changing their profile.
+
+Funny Example: 😂
+Your apartment key opens your room. 🔑
+One day, you're also given the gym key—your room key doesn't change.
+
+👉 Permission Set = Extra access.
+
+---
+
+📦 Permission Set Group
+
+Answer:
+A Permission Set Group combines multiple permission sets into one package for easier assignment.
+
+Funny Example: 😂
+🎁 Instead of carrying 3 separate gift boxes, put them into one big gift box.
+
+👉 Permission Set Group = Bundle of Permission Sets.
+
+---
+
+👨‍💻 User Creation & Assignment
+
+Answer:
+When creating a user, we typically:
+
+1. Create the User.
+2. Assign a Profile (required).
+3. Assign a Role (if needed).
+4. Assign Permission Sets or a Permission Set Group for additional access.
+
+Funny Example: 😂
+Hiring a new employee:
+
+* 👤 Create Employee
+* 🎫 Give ID Card (Profile)
+* 👑 Assign Position (Role)
+* 🔑 Give Extra Keys (Permission Set)
+* 🎁 Or give a Key Bundle (Permission Set Group)
+
+---
+
+🎯 Easy Difference
+
+| Feature                     | Purpose                          |
+| --------------------------- | -------------------------------- |
+| 👤 Profile              | What the user can do (mandatory) |
+| 👑 Role                 | What records the user can see    |
+| 🔑 Permission Set       | Extra permissions                |
+| 📦 Permission Set Group | Bundle of permission sets        |
+
+---
+
+🧠 One-Line Interview Summary
+
+> "Every user must have one Profile, may have one Role for record visibility, and can have multiple Permission Sets or Permission Set Groups to grant additional permissions without changing the Profile."
+
+💡 Memory Trick
+
+* 👤 Profile = ID Card
+* 👑 Role = Job Position
+* 🔑 Permission Set = Extra Key
+* 📦 Permission Set Group = Key Bundle
+* 👨‍💻 User = New Employee
