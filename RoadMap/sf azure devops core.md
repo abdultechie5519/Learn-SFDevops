@@ -37,4 +37,6 @@ Pre-requisties (git, vscode, sfCLI)
 
 Git commands version control, Azure Devops - Repos
 
+Azure pipelines
+
 
