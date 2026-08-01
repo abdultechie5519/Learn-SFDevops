@@ -6,3 +6,6 @@ One simple real-life or practical example.
 If the topic involves practical steps or commands, provide a very basic example.
 Avoid complex technical terms and long explanations.
 Keep the answer concise (around 100–150 words).
+
+
+Salesforce Sales & Service Cloud concept pretending answering in an interview with simple appropriate funny examples in short
