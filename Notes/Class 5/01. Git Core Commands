@@ -1,0 +1,114 @@
+Git & Azure Repos (Short & Simple)
+
+Interviewer: *What is Git?*
+
+Answer:
+Git is a Version Control System (VCS) used to track code changes and collaborate with teams. It helps us manage different versions of our project.
+
+Funny Example: 😂
+Think of Git like the Undo (Ctrl + Z) button with superpowers. If you mess up your code, Git says, *"Don't worry, I saved your old version!"* 😄
+
+---
+
+🚀 Adding Files from Local (VS Code) → Azure Repos (Remote)
+
+Answer:
+I write code in VS Code (Local) and then push it to Azure Repos (Remote Repository) using Git commands.
+
+Funny Example: 😂
+📖 Writing homework at home (Local) → Submitting it to the teacher (Azure Repos).
+
+---
+
+1️⃣ `git fetch`
+
+Answer:
+Downloads the latest changes from the remote repository without changing my local files.
+
+Funny Example: 😂
+👀 Looking through your neighbor's window to see what's new, but you don't bring anything home.
+
+---
+
+2️⃣ `git pull` or `git pull origin main`
+
+Answer:
+Downloads the latest changes and merges them into my local branch.
+
+Funny Example: 😂
+📥 Your friend sends updated notes, and you immediately add them to your notebook.
+
+---
+
+3️⃣ `git add .`
+
+Answer:
+Stages all modified and new files for the next commit.
+
+Funny Example: 😂
+🛒 Putting all your shopping items into the cart before checkout.
+
+---
+
+4️⃣ `git status`
+
+Answer:
+Shows which files are modified, staged, or untracked.
+
+Funny Example: 😂
+🧺 Checking the laundry basket to see which clothes are dirty and which are clean.
+
+---
+
+5️⃣ `git commit -m "files added"`
+
+Answer:
+Saves the staged changes in the local Git repository with a meaningful message.
+
+Funny Example: 😂
+📸 Taking a selfie before changing your hairstyle—now you always have that memory!
+
+---
+
+6️⃣ `git push origin main`
+
+Answer:
+Uploads your committed changes from the local repository to the remote repository (Azure Repos).
+
+Funny Example: 😂
+📤 Uploading your assignment to the college portal before the deadline.
+
+---
+
+🎯 Complete Flow
+
+```
+Write Code (VS Code)
+        ⬇
+git fetch (Check latest updates)
+        ⬇
+git pull origin main (Get latest code)
+        ⬇
+git add . (Stage changes)
+        ⬇
+git status (Verify changes)
+        ⬇
+git commit -m "files added" (Save locally)
+        ⬇
+git push origin main (Upload to Azure Repos)
+```
+
+---
+
+🧠 One-Line Interview Summary
+
+> "Git is a version control tool that helps track code changes and collaborate with teams. My typical workflow is: `git fetch` → `git pull` → `git add .` → `git status` → `git commit` → `git push`, which syncs my local changes from VS Code to Azure Repos."
+
+💡 Easy Memory Trick
+
+* 👀 Fetch = Just Look
+* 📥 Pull = Download + Merge
+* 🛒 Add = Put in Cart
+* 🧺 Status = Check Basket
+* 📸 Commit = Take Snapshot
+* 📤 Push = Submit Homework
