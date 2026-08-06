@@ -32,7 +32,8 @@ Salesforce releases (Knowledge)
 
 Agile Metholodgy:
 
-End to End flow (UST to delivery), PO, Scrum master, developer, tester, deployment or operation team's role
+End to End flow (UST to delivery), PO, Scrum master, developer, tester, deployment or operation team's role, Comparison with Waterfall Model.
+
 
 Git Core Commands:
 
