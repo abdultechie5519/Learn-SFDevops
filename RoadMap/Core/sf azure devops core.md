@@ -1,6 +1,7 @@
 Youtube Playlist:
 https://www.youtube.com/playlist?list=PLEUxb61_cGp4
 
+
 Salesforce Concepts:
 
 Salesforce Platform, CRM Process (Pratical & Knowledge)
