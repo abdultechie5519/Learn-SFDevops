@@ -47,8 +47,17 @@ Azure Devops:
 
 Pre-requisties (git, vscode, sfCLI)
 
-Git commands version control, Azure Devops - Repos
+Salesforce CLI - most used commands
 
-Azure pipelines
+Azure Repos
+
+Agent Configuration (Microsoft Agent, Self hosted Agent)
+
+Azure pipelines (Yaml creation)
+
+Branching Strategy
+
+Multi Staging pipeline creation
+
 
 
