@@ -51,6 +51,8 @@ Pre-requisties (git, vscode, sfCLI)
 
 Salesforce CLI - most used commands
 
+Vscode - Salesforce Extension or sf commmands - create project, authorize org & retrieve metadata and push to remote repo
+
 Azure Repos
 
 Agent Configuration (Microsoft Agent, Self hosted Agent)
