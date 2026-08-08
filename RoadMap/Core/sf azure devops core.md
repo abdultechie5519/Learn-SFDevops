@@ -37,7 +37,7 @@ End to End flow (UST to delivery), PO, Scrum master, developer, tester, deployme
 
 Git version control tool & Core Commands:
 
-git clone, git init, git add, git status, git commit, git push, git fetch, git pull, new feature branch creation, pull request-PR, git switch, git merge, merge conflicts, git rebase, git cherry-pick, git squash, remote vs local
+git clone, git init, git add, git status, git commit, git push, git fetch, git pull, new feature branch creation, pull request-PR, git switch, git merge, merge conflicts, git rebase, git cherry-pick, git squash, remote vs local, git revert, git reset
 
 Devops (Devops LifeCycle, Continous Integration-CI, Continous Deployment-CD, Continous Delivery-CD)
 
