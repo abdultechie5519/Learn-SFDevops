@@ -26,6 +26,8 @@ Metadata & Data (Knowledge)
 
 Difference b/w Salesforce Lightning & Classic (Knowledge)
 
+Apex Classes, Apex Trigger, Developer Console - SOQL & SOSL
+
 New connected app (OAuth)
 
 Salesforce releases (Knowledge)
