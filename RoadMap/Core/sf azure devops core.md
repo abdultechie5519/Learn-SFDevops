@@ -61,7 +61,7 @@ Azure pipelines (Yaml creation)
 
 Variables group, SF Authentication
 
-Branching Strategy
+Branching Strategy (feature/ust-1, dev, UAT, main(prod))
 
 Multi Staging pipeline creation
 
