@@ -65,7 +65,8 @@ Branching Strategy
 
 Multi Staging pipeline creation
 
-Code Quality
+Code Quality - PMD Analyser, Salesforce Code Analyser, Sonarqube
+
 
 
 
