@@ -24,8 +24,6 @@ Salesforce Architecture (Knowledge)
 
 Metadata & Data (Knowledge)
 
-Difference b/w Salesforce Lightning & Classic (Knowledge)
-
 Apex Classes, Apex Trigger, Visualforce pages Developer Console - SOQL & SOSL
 
 Custom Metadata & Custom Settings
