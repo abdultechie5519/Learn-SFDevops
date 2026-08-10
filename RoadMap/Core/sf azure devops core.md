@@ -28,6 +28,8 @@ Difference b/w Salesforce Lightning & Classic (Knowledge)
 
 Apex Classes, Apex Trigger, Visualforce pages Developer Console - SOQL & SOSL
 
+Custom Metadata & Custom Settings
+
 New connected app (OAuth)
 
 Salesforce releases (Knowledge)
@@ -55,7 +57,7 @@ Vscode - Salesforce Extension or sf commmands - create project, authorize org & 
 
 Azure Repos
 
-Agent Configuration (Microsoft Agent, Self hosted Agent)
+Agent Configuration (Microsoft Agent, Self hosted Agent setup)
 
 Azure pipelines (Yaml creation)
 
