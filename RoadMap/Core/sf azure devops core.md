@@ -59,9 +59,13 @@ Agent Configuration (Microsoft Agent, Self hosted Agent)
 
 Azure pipelines (Yaml creation)
 
+Variables group, SF Authentication
+
 Branching Strategy
 
 Multi Staging pipeline creation
+
+Code Quality
 
 
 
