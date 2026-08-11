@@ -59,7 +59,7 @@ Agent Configuration (Microsoft Agent, Self hosted Agent setup)
 
 Azure pipelines (Yaml creation)
 
-Variables group, SF Authentication
+Variables group, SF Authentication using SF OAuth URL Concept
 
 Branching Strategy (feature/ust-1, dev, UAT, main(prod))
 
