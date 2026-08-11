@@ -63,7 +63,7 @@ Variables group, SF Authentication using SF OAuth URL Concept
 
 Branching Strategy (feature/ust-1, dev, UAT, main(prod))
 
-Multi Staging pipeline creation
+Multi Staging pipeline creation (Dev -> QA -> Prod)
 
 Code Quality - PMD Analyser, Salesforce Code Analyser, Sonarqube
 
