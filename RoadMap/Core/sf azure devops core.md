@@ -59,7 +59,7 @@ Azure Repos
 
 Agent Configuration (Microsoft Agent, Self hosted Agent setup)
 
-Azure pipelines (Yaml creation)
+Azure pipelines (Yaml creation), create flow/structure for the pipeline
 
 Variables group, SF Authentication using SF OAuth URL Concept
 
