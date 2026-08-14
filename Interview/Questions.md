@@ -10,6 +10,8 @@ Tell me about git fetch vs git pull with few examples
 
 Tell me about git merge vs git rebase and how did you handle merge conflicts with few examples
 
+Explain about salesforce dx flow concept  
+
 
 
 
