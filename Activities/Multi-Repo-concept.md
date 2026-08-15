@@ -1,8 +1,8 @@
-Yes — in that case, you can make the **`ADO-Pipeline-Templates-Repo` the central pipeline repository** and keep **Sales/Service repos only for Salesforce source code**.
+Yes — in that case, you can make the `ADO-Pipeline-Templates-Repo` the central pipeline repository and keep Sales/Service repos only for Salesforce source code.
 
-### Recommended structure
+Recommended structure
 
-```text
+text
 Salesforce-Sales-Repo
  ├── force-app/
  └── sfdx-project.json
@@ -16,17 +16,17 @@ ADO-Pipeline-Templates-Repo
       ├── validate.yml
       ├── deploy.yml
       └── salesforce-ci-cd.yml
-```
 
-**No `azure-pipelines.yml` in Sales or Service repos.**
+
+No `azure-pipelines.yml` in Sales or Service repos.
 
 ---
 
-## 1. `salesforce-ci-cd.yml`
+1. `salesforce-ci-cd.yml`
 
-This is the **main pipeline**.
+This is the main pipeline.
 
-```yaml
+yaml
 parameters:
 
 - name: application
@@ -86,13 +86,13 @@ stages:
       parameters:
         environment: ${{ parameters.environment }}
         orgAlias: ${{ parameters.orgAlias }}
-```
+
 
 ---
 
-## 2. `validate.yml`
+2. `validate.yml`
 
-```yaml
+yaml
 parameters:
 
 - name: orgAlias
@@ -110,13 +110,13 @@ steps:
       --dry-run
 
   displayName: Salesforce Validation
-```
+
 
 ---
 
-## 3. `deploy.yml`
+3. `deploy.yml`
 
-```yaml
+yaml
 parameters:
 
 - name: environment
@@ -136,19 +136,19 @@ steps:
       --target-org ${{ parameters.orgAlias }}
 
   displayName: Salesforce Deployment
-```
+
 
 ---
 
-# How do Sales and Service get triggered?
+How do Sales and Service get triggered?
 
-You create **two Azure DevOps pipelines**, but both point to the **same `salesforce-ci-cd.yml`** in the central repo.
+You create two Azure DevOps pipelines, but both point to the same `salesforce-ci-cd.yml` in the central repo.
 
-### Sales Pipeline
+Sales Pipeline
 
 Pipeline configuration:
 
-```text
+text
 Pipeline Name: Salesforce-Sales-CI-CD
 
 YAML:
@@ -161,11 +161,11 @@ application = Sales
 sourceRepo  = Salesforce-Sales-Repo
 environment = UAT
 orgAlias    = SALES-UAT
-```
 
-### Service Pipeline
 
-```text
+Service Pipeline
+
+text
 Pipeline Name: Salesforce-Service-CI-CD
 
 YAML:
@@ -178,11 +178,11 @@ application = Service
 sourceRepo  = Salesforce-Service-Repo
 environment = UAT
 orgAlias    = SERVICE-UAT
-```
 
-### Overall architecture
 
-```text
+Overall architecture
+
+text
                     ADO
                      │
         ┌────────────┴────────────┐
@@ -208,10 +208,9 @@ Salesforce-Sales-Repo   Salesforce-Service-Repo
           │                   │
           ▼                   ▼
        Sales App           Service App
-```
 
-### 🎯 Interview answer
 
-> **“I don't keep pipeline YAML files in each application repository. I centralize the CI/CD implementation in a dedicated ADO Pipeline Templates repository. Sales and Service are separate Salesforce source repositories, while their ADO pipelines point to the same reusable `salesforce-ci-cd.yml`. Using parameters, I pass the application name, source repository, environment and target Salesforce org. The common template then calls validation and deployment templates. This gives centralized pipeline management with reusable logic and avoids duplicating YAML across application repositories.”**
+🎯 Interview answer
 
-**One important distinction:** the Sales and Service repos contain **source code only**; the ADO project contains the **pipeline definitions/templates and environment configuration**.
+We have Sales and Service Salesforce applications, I use a multi-repo approach. Each application has its own source-code repository, but I don't maintain separate YAML files in those repos. I keep all CI/CD logic centrally in an ADO-Pipeline-Templates-Repo.
+I use a main salesforce-ci-cd.yml template, which calls reusable validate.yml and deploy.yml templates. Sales and Service pipelines pass parameters like application name, source repo, environment, and Salesforce org. This gives me centralized management, reusable templates, and avoids duplicate pipeline code.
