@@ -71,6 +71,8 @@ Multi Staging pipeline creation (Dev -> QA -> Prod)
 
 Code Quality - PMD Analyser, Salesforce Code Analyser, Sonarqube
 
+Release Planning Structure
+
 
 
 
