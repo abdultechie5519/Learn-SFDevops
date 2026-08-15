@@ -65,6 +65,8 @@ Variables group, SF Authentication using SF OAuth URL Concept
 
 Branching Strategy (feature/ust-1, dev, UAT, main(prod))
 
+Mono repo's vs multi repo concept (Parameterisation & templates)
+
 Multi Staging pipeline creation (Dev -> QA -> Prod)
 
 Code Quality - PMD Analyser, Salesforce Code Analyser, Sonarqube
