@@ -20,8 +20,6 @@ How do you handle Salesforce metadata deployment and failures?
 
 How do you secure Salesforce credentials in Azure DevOps?
 
-Why would you use a self-hosted Azure DevOps agent?
-
 Can you explain the difference between mono-repo and multi-repo? Which approach are you using in your current project, and why?
 
 Can you explain your end-to-end Salesforce CI/CD process, including how you move changes from Developer → UAT → Production using multi-stage pipelines, and how you would design it for multiple Salesforce applications?
