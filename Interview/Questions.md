@@ -16,13 +16,13 @@ How do you authenticate Salesforce from Azure DevOps?
 
 How do you create an Azure YAML pipeline for Salesforce?
 
-How do you handle Salesforce metadata deployment?
-
-How do you handle a Salesforce deployment failure?
+How do you handle Salesforce metadata deployment and failures?
 
 How do you secure Salesforce credentials in Azure DevOps?
 
 Why would you use a self-hosted Azure DevOps agent?
+
+Can you explain the difference between mono-repo and multi-repo? Which approach are you using in your current project, and why?
 
 Explain your end-to-end Salesforce CI/CD process.
 
