@@ -4,7 +4,7 @@ What is your current branching strategy?
 
 What challenges have you faced in your current projects, and how did you overcome them?
 
-How is your Azure DevOps agent configuration set up?
+What are the different types of Azure DevOps agents, and how is your agent configured in the current project?
 
 What is the difference between `git fetch` and `git pull`? Give some examples.
 
@@ -24,13 +24,7 @@ Why would you use a self-hosted Azure DevOps agent?
 
 Can you explain the difference between mono-repo and multi-repo? Which approach are you using in your current project, and why?
 
-Explain your end-to-end Salesforce CI/CD process.
-
-How do you move Salesforce changes from Developer → UAT → Production?
-
-How do you implement Dev → UAT → Production multi-stage pipelines?
-
-How would you design CI/CD pipelines for two Salesforce applications?
+Can you explain your end-to-end Salesforce CI/CD process, including how you move changes from Developer → UAT → Production using multi-stage pipelines, and how you would design it for multiple Salesforce applications?
 
 How would you avoid duplicating YAML between multiple repositories?
 
