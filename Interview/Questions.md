@@ -12,10 +12,6 @@ What is the difference between `git merge` and `git rebase`, and how do you hand
 
 Can you explain the Salesforce DX flow concept?
 
-Explain your end-to-end Salesforce CI/CD process.
-
-How do you move Salesforce changes from Developer → UAT → Production?
-
 How do you authenticate Salesforce from Azure DevOps?
 
 How do you create an Azure YAML pipeline for Salesforce?
@@ -27,6 +23,10 @@ How do you handle a Salesforce deployment failure?
 How do you secure Salesforce credentials in Azure DevOps?
 
 Why would you use a self-hosted Azure DevOps agent?
+
+Explain your end-to-end Salesforce CI/CD process.
+
+How do you move Salesforce changes from Developer → UAT → Production?
 
 How do you implement Dev → UAT → Production multi-stage pipelines?
 
