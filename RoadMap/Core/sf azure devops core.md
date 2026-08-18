@@ -73,6 +73,8 @@ Code Quality - PMD Analyser, Salesforce Code Analyser, Sonarqube
 
 Release Planning Structure
 
+Pre deployment steps and post deployment steps
+
 
 
 
