@@ -75,6 +75,8 @@ Release Planning Structure
 
 Pre deployment steps and post deployment steps
 
+Apex test class coverage percentage for deployment
+
 
 
 
